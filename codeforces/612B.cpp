@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-//http://codeforces.com/contest/612
+//http://codeforces.com/contest/612/problem/B
 //B. HDD is Outdated Technology
 
 using namespace std;

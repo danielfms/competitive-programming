@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-//http://codeforces.com/contest/612
+//http://codeforces.com/contest/612/problem/A
 //A. The Text Splitting
 using namespace std;
 
