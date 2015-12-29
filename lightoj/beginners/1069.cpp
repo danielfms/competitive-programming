@@ -1,3 +1,5 @@
+// 1069 - Lift
+// http://www.lightoj.com/volume_showproblem.php?problem=1069
 #include <bits/stdc++.h>
 using namespace std;
 #define endl '\n'
