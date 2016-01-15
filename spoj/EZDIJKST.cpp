@@ -1,3 +1,5 @@
+// EZDIJKST - Easy Dijkstra Problem
+// http://www.spoj.com/problems/EZDIJKST/
 #include <bits/stdc++.h>
 using namespace std;
 #define endl '\n'
