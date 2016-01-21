@@ -34,7 +34,7 @@ void dfs(int source, int n){
         st.push(nv);
         if(nw<0) negativos+= nw;
         else positivos+= nw;
-        break;
+        break; // asegurar seguir en la misma direccion
       }
     }
   }
