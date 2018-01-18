@@ -31,3 +31,15 @@ vector<int> split(string s){
 
 //digits in binary of decimal
 //digits = floor(log2(n)) + 1;
+
+//Iterate
+map<string, float> trees;
+map<string, float>::iterator it;
+for(it = trees.begin(); it != trees.end(); ++it){
+    p = (it->second / n) * 100.0;
+    cout << it->first << " " << fixed << setprecision(4) << p << endl;  
+}      
+for (auto &[k, v] : trees){
+    p = (v / n) * 100.0;
+    cout << k << " " << fixed << setprecision(4) << p << endl; 
+}
