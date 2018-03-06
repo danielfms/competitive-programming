@@ -80,3 +80,11 @@ class UnionFind{
             }
         }
 };
+
+// split string
+string s, token;
+cin >> s;
+istringstream iss(s);
+while(getline(iss, token, ',')){
+    cout<< token.c_str() << endl;
+};
