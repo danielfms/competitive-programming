@@ -1,4 +1,4 @@
-package crackingTheCodingInterview.dataStructures.easy;
+package dataStructures.easy;
 import java.io.*;
 import java.util.*;
 import java.text.*;
